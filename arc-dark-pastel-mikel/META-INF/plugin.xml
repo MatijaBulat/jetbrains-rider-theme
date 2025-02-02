@@ -1,0 +1,24 @@
+<idea-plugin>
+  <id>color.scheme.arc-dark-pastel-mikel</id>
+  <name>Arc Dark Pastel Mikel</name>
+  <version>1.0</version>
+  <vendor email="nope@gmail.com" url="http://">Arc Pastel-Mikell</vendor>
+
+  <description><![CDATA[
+      arc dark pastel colorfull for jetbrains rider
+    ]]></description>
+
+  <change-notes><![CDATA[
+      
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+      <bundledColorScheme path="/colors/arc-dark-pastel-mikel"/>
+      <themeProvider id="ArcDarkPastelMikelTheme" path="/theme.json"/>
+  </extensions>
+</idea-plugin>

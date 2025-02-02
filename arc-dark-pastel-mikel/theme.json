@@ -1,0 +1,108 @@
+{
+  "name": "Arc Dark Pastel Mikel",
+  "dark": true,
+  "editorScheme": "arc-dark-pastel-mikel",
+  "ui": {
+    "*": {
+      "background": "#060606",
+      "foreground": "#A9B7C6",
+      "selectionBackground": "#214283",
+      "selectionForeground": "#FFFFFF",
+      "disabledBackground": "#060606",
+      "inactiveBackground": "#060606",
+      "disabledForeground": "#4b575f",
+      "borderColor": "#1e1e1e",
+      "separatorColor": "#5c6370",
+      "focusColor": "#568af2",
+      "errorForeground": "#E06C75",
+      "warningForeground": "#E5C07B",
+      "infoForeground": "#A9B7C6"
+    },
+    "Borders": {
+      "color": "#1e1e1e",
+      "ContrastBorderColor": "#1e1e1e"
+    },
+    "ScrollBar": {
+      "background": "#060606",
+      "thumbColor": "#18141c",
+      "thumbHoverColor": "#211d28"
+    },
+    "Diff": {
+      "separatorsBackground": "#18141c",
+      "modifiedLinesColor": "#D19A66",
+      "deletedLinesColor": "#E06C75",
+      "addedLinesColor": "#98C379"
+    },
+    "Debugger": {
+      "inlinedValuesColor": "#5C6370",
+      "executionPointColor": "#101010"
+    },
+    "Bookmark": {
+      "background": "#3D424B",
+      "borderColor": "#568AF2",
+      "foreground": "#A0A7B4"
+    },
+    "Console": {
+      "background": "#18141c",
+      "foreground": "#ABB2BF",
+      "errorColor": "#E06C75",
+      "warningColor": "#E5C07B",
+      "infoColor": "#A9B7C6",
+      "debugColor": "#61AFEF"
+    },
+    "Gutter": {
+      "background": "#101010",
+      "lineNumbersColor": "#495162",
+      "modifiedLinesColor": "#D19A66",
+      "deletedLinesColor": "#E06C75",
+      "addedLinesColor": "#98C379"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#060606",
+      "selectedForeground": "#060606",
+      "borderColor": "#1e1e1e"
+    },
+    "ToolWindow": {
+      "background": "#060606",
+      "borderColor": "#1e1e1e"
+    },
+    "Popup": {
+      "background": "#101010",
+      "borderColor": "#1e1e1e"
+    },
+    "Diagram": {
+      "annotationEdge": "#E5C07B",
+      "defaultEdge": "#A0A7B4",
+      "generalizationEdge": "#61AFEF",
+      "innerEdge": "#E06C75",
+      "nodeBackground": "#323844",
+      "nodeHeader": "#414855",
+      "noteBackground": "#414855",
+      "noteBorder": "#5C6370",
+      "realizationEdge": "#98C379"
+    },
+    "Jupyter": {
+      "cellUnderCaretCommandModeStripeColor": "#568AF2",
+      "codeCellBackground": "#2D3139",
+      "gutterInputExecutionCount": "#568AF2",
+      "sausageButtonBorderColor": "#333841"
+    },
+    "VCS": {
+      "annotationsColor1": "#335027",
+      "annotationsColor2": "#3E443C",
+      "annotationsColor5": "#46333C"
+    },
+    "HTML": {
+      "tagTreeLevel0": "#F44747",
+      "tagTreeLevel1": "#E5C07B",
+      "tagTreeLevel2": "#98C379",
+      "tagTreeLevel3": "#56B6C2",
+      "tagTreeLevel4": "#61AFEF",
+      "tagTreeLevel5": "#C678DD"
+    },
+    "ScrollBarMac": {
+      "hoverThumbColor": "#211D28",
+      "thumbColor": "#18141C"
+    }
+  }
+}
